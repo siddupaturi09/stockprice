@@ -4,3 +4,5 @@ plotly
 statsmodels
 scikit-learn
 pandas
+openpyxl
+fuzzywuzzy
